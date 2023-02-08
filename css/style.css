@@ -1,0 +1,227 @@
+.navigation-block {
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    
+}
+.logo {
+    color: #FFFFFF;
+}
+.nav-li {
+    display: flex;
+    justify-content: space-between;
+
+}
+.li-link {
+    margin-right: 20px;
+    color: #FFFFFF;
+
+}
+.burger-bar {
+    display: none;
+    
+
+}
+.bg-image1 {
+    width: 100%;
+    height: 100%px;
+    background-image: url('../images/backgroundimg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+}
+.contact {
+   padding: 40px;
+}
+.contact1 {
+    font-size: 30px;
+    color: #FFFFFF;
+    
+}
+.contact2 {
+    font-size: 10px;
+    color: #FFFFFF;
+    margin-top: 10px;
+
+}
+
+/* container-1 */
+.map-box {
+    max-width: 1088px;
+    width: 100%;  
+}
+.map {
+    width: 100%;
+    height: 286px;
+    padding-top: 50px;
+    padding-left: 139px;
+}
+.contact-us {
+    margin-left: 139px;
+    margin-top: 75px;
+    margin-bottom: 55px;
+}
+.contact-us1 {
+    font-size: 14px;
+    color: #5863F8;
+
+}
+.contact-us2 {
+    font-size: 34px;
+}
+.contact-block {
+    max-width: 1088px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.left-block {
+    width: 720px;
+    flex-wrap: wrap;
+    
+}
+.textarea-element {
+    max-width: 720px;
+    width: 100%;
+    height: 288px;
+    margin-left: 139px;
+    resize: none;  
+}
+.right-block-parts {
+    display: flex;
+    flex-direction: column;
+}
+.box {
+    max-width: 352px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 16px;
+}
+.send {
+    background: #5863F8;
+}
+.conact-block2 {
+    max-width: 1088px;
+    width: 100%;
+    height: 287px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 139px;
+    flex-wrap: wrap;
+}
+.block2 {
+    max-width: 267px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+ 
+}
+.background {
+    /* max-width: 39px; */
+    width: 100%;
+    /* height: 38px; */
+    background-color: #5863F8;
+    border-radius: 50%;
+}
+.email {
+    margin-top: 15px;
+    margin-bottom: 6px;
+}
+
+
+/* container-2 */
+.container2 {
+    max-width: 1366px;
+    width: 100%;
+    height: 527px;
+
+    
+}
+.head-image {
+    padding: 30px;
+}
+.head1 {
+    font-size: 14px;
+    color: #5863F8;
+}
+.head2 {
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+.image-block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+
+}
+.block-image {
+    max-width: 352px;
+    width: 100%;
+    height: 352px;
+}
+
+/* footer */
+.footer {
+    max-width: 1366px;
+    width: 100%;
+    height: 395px;
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    color: #FFFFFF;
+
+
+}
+.zetta-hotels {
+    max-width: 260px;
+    width: 100%;
+    height: 192px;
+}
+.links {
+    max-width: 90px;
+    width: 100%;
+    height: 154px;
+}
+.privacy {
+    max-width: 67px;
+    width: 100%;
+    height: 154px;
+
+}
+.contact-info {
+    max-width: 178px;
+    width: 100%;
+    height: 144px;
+}
+.contact-icons {
+    display: flex;
+    align-items: center;
+
+}
+.facebook-box {
+    max-width: 35px;
+    width: 100%;
+    height: 35px;
+    background-color: #3B5998;
+    border-radius: 50%;
+}
+.twitter-box {
+    max-width: 35px;
+    width: 100%;
+    height: 35px;
+    background-color: #55ACEE;
+    border-radius: 50%;
+}
+.google-box {
+    max-width: 35px;
+    width: 100%;
+    height: 35px;
+    background-color: #DC4E41;
+    border-radius: 50%;
+}
